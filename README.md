@@ -9,3 +9,4 @@ configure R53 and CF as well.
 The following features have been added:
 List buckets
 List contents of a bucket
+Create and setup webites in S3 buckets
